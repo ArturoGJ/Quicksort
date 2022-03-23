@@ -1,5 +1,9 @@
 package com.arturo;
 
+/**
+ * Creating an implementation of the Quicksort algorithm based on the book:
+ * Introduction to Algorithms (Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein)
+ */
 public class Quicksort {
 
     public static void quicksort(int[] arr) {
